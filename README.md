@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&multiline=true&width=435&height=94&lines=Javier+Sol%C3%ADs+Garc%C3%ADa;AI+Researcher+%7C+PhD+Student+%7C++;Software+Engineer" alt="Typing SVG" /></a>
 <br/>
 
-<!-- <a href="https://gkos.tech/Resume.pdf">
+<!-- <a href="https://link">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  -->
 <a href="https://www.linkedin.com/in/javier-solis-garcia/">
@@ -17,11 +17,8 @@
 
 <br/> 
 
-<!-- <a href="https://github.com/drkostas">
-    <img src="https://github-readme-stats.vercel.app/api?username=javiersgjavi&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
 
-<a href="https://github.com/drkostas">
+<a href="https://github.com/javiersgjavi">
     <img src="https://github-stats-alpha.vercel.app/api?username=javiersgjavi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
